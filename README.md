@@ -1,6 +1,6 @@
 # Biopac Accelerometer File Handler  
 
-Simple library to handle Biopac accelerometer data exported from Acqknowledge software as tab delimited text file.
+Simple library to handle Biopac accelerometer data exported from Acqknowledge software as tab delimited text file. (Include header)
 
 Functions for plotting, selecting a data window, and calculating frequency spectra.
 
